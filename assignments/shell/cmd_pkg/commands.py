@@ -1,4 +1,5 @@
 #!/usr/bin/env python
-from rm import rm
+
+from mv import mv
 from pwd import pwd
 from cat import cat
