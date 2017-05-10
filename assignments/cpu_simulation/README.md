@@ -2,13 +2,13 @@
 scheduling project
 
 
->Team Information
+>Group Members
 >
 | Name     | Email   | Github Username |
 |----------|---------|-----------------|
-| divyashree, H B | divya.h.shree12@gmail.com | divyah12  |
-| Sowjanya,Nemani  | Sowjanyanemani13@gmail.com | sowjanya137 |
-| Azher, Waseem	  | waseemazher89@gmail.com | waseemazher  |
+| Name 1   | waseemazher89@gmail.com | waseemazher  |
+| Name 2   | divya.h.shree12@gmail.com | divyah12  |
+| Name 3   | Sowjanyanemani13@gmail.com | sowjanya137 |
 
 
 ![](https://github.com/WaseemAzher/5143-201-OpSys-Azher/blob/master/assignments/participation.png)
