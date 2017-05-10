@@ -11,7 +11,7 @@ scheduling project
 | Azher, Waseem	  | waseemazher89@gmail.com | waseemazher  |
 
 
-![](https://github.com/WaseemAzher/5143-201-OpSys-Azher/blob/master/participation.PNG)
+![](https://github.com/WaseemAzher/5143-201-OpSys-Azher/blob/master/assignments/participation.png)
 
 
 
@@ -42,9 +42,9 @@ Implementation of level 1 scheduling and testing was done in group.
 >
 | Name     | Time   | 
 |----------|---------|
-| divyashree, H B | 58|
-| Sowjanya,Nemani  | 45|
-| Azher, Waseem	  |45|
+| divyashree, H B | 56|
+| Sowjanya,Nemani  | 41|
+| Azher, Waseem	  |41|
 
 
 Files in project
