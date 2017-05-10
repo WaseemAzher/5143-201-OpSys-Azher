@@ -7,4 +7,4 @@
 | Name 3   | Sowjanyanemani13@gmail.com | sowjanya137 |
 
 
-![](http://linux.activityworkshop.net/more_info/pie_google.png)
+![](https://github.com/WaseemAzher/5143-201-OpSys-Azher/blob/master/participation.PNG)
